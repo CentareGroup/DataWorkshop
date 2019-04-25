@@ -1,7 +1,7 @@
 
 echo "Deleting Folders..."
 
-for i in {01..30}
+for i in $(seq -w 1 30)
 do
    foldername="dataworkshop.$i"
    echo "Deleting folder $foldername"
