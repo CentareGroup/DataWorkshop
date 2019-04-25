@@ -2,7 +2,7 @@
 
 echo "Creating Folders and copying notebook files"
 
-for i in {1..2}
+for i in {1..30}
 do
    foldername="dataworkshop.$i"
    echo "Creating folder $foldername"
