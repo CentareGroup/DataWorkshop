@@ -12,5 +12,6 @@ do
    mkdir ../../$foldername
    cp "Data Visualization Developer Workshop.ipynb" ../../$foldername
    cp "helper.py" ../../$foldername
+   cp "Jupyter Basics.ipynb" ../../$foldername
 done
 
